@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0EC604D52ED6CF090088701A /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC604D42ED6CF090088701A /* ResultViewController.swift */; };
 		42C7CB6924C6152200AB2512 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C7CB6824C6152200AB2512 /* AppDelegate.swift */; };
 		42C7CB6B24C6152200AB2512 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C7CB6A24C6152200AB2512 /* SceneDelegate.swift */; };
 		42C7CB6D24C6152200AB2512 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C7CB6C24C6152200AB2512 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0EC604D42ED6CF090088701A /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		42C7CB6524C6152200AB2512 /* Reto 5 - Que personaje eres.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Reto 5 - Que personaje eres.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42C7CB6824C6152200AB2512 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42C7CB6A24C6152200AB2512 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				42C7CB6824C6152200AB2512 /* AppDelegate.swift */,
 				42C7CB6A24C6152200AB2512 /* SceneDelegate.swift */,
 				42C7CB6C24C6152200AB2512 /* ViewController.swift */,
+				0EC604D42ED6CF090088701A /* ResultViewController.swift */,
 				42C7CB6E24C6152200AB2512 /* Main.storyboard */,
 				42C7CB7124C6152500AB2512 /* Assets.xcassets */,
 				42C7CB7324C6152500AB2512 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				42C7CB6D24C6152200AB2512 /* ViewController.swift in Sources */,
 				42C7CB6924C6152200AB2512 /* AppDelegate.swift in Sources */,
+				0EC604D52ED6CF090088701A /* ResultViewController.swift in Sources */,
 				42C7CB6B24C6152200AB2512 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
